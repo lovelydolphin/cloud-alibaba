@@ -1,0 +1,86 @@
+2021-01-27 16:06:31,174 INFO notifyConnectTimeout:200
+
+2021-01-27 16:06:31,177 INFO notifySocketTimeout:8000
+
+2021-01-27 16:06:31,177 INFO isHealthCheck:true
+
+2021-01-27 16:06:31,178 INFO maxHealthCheckFailCount:12
+
+2021-01-27 16:06:31,178 INFO maxContent:10485760
+
+2021-01-27 16:07:12,251 INFO notifyConnectTimeout:200
+
+2021-01-27 16:07:12,254 INFO notifySocketTimeout:8000
+
+2021-01-27 16:07:12,254 INFO isHealthCheck:true
+
+2021-01-27 16:07:12,254 INFO maxHealthCheckFailCount:12
+
+2021-01-27 16:07:12,254 INFO maxContent:10485760
+
+2021-01-27 16:07:53,855 INFO notifyConnectTimeout:200
+
+2021-01-27 16:07:53,860 INFO notifySocketTimeout:8000
+
+2021-01-27 16:07:53,860 INFO isHealthCheck:true
+
+2021-01-27 16:07:53,860 INFO maxHealthCheckFailCount:12
+
+2021-01-27 16:07:53,860 INFO maxContent:10485760
+
+2021-01-27 16:10:42,021 INFO notifyConnectTimeout:200
+
+2021-01-27 16:10:42,025 INFO notifySocketTimeout:8000
+
+2021-01-27 16:10:42,025 INFO isHealthCheck:true
+
+2021-01-27 16:10:42,025 INFO maxHealthCheckFailCount:12
+
+2021-01-27 16:10:42,025 INFO maxContent:10485760
+
+2021-01-27 16:19:28,111 INFO notifyConnectTimeout:200
+
+2021-01-27 16:19:28,114 INFO notifySocketTimeout:8000
+
+2021-01-27 16:19:28,114 INFO isHealthCheck:true
+
+2021-01-27 16:19:28,115 INFO maxHealthCheckFailCount:12
+
+2021-01-27 16:19:28,115 INFO maxContent:10485760
+
+2021-01-27 16:19:36,467 INFO use local db service for init
+
+2021-01-27 16:19:38,254 WARN Lexical error at line 4, column 66.  Encountered: <EOF> after : "".
+
+2021-01-27 16:19:38,313 WARN Syntax error: Encountered "*" at line 1, column 1.
+
+2021-01-27 16:19:38,617 WARN Lexical error at line 4, column 13.  Encountered: "`" (96), after : "".
+
+2021-01-27 16:19:38,617 WARN Lexical error at line 1, column 13.  Encountered: "`" (96), after : "".
+
+2021-01-27 16:19:38,618 WARN Lexical error at line 1, column 13.  Encountered: "`" (96), after : "".
+
+2021-01-27 16:19:38,618 WARN Lexical error at line 1, column 13.  Encountered: "`" (96), after : "".
+
+2021-01-27 16:19:38,618 INFO use StandaloneDatabaseOperateImpl
+
+2021-01-27 16:19:39,847 WARN DumpService start
+
+2021-01-27 16:19:39,848 INFO start clear all config-info.
+
+2021-01-27 16:19:39,849 WARN clear all config-info failed.
+
+2021-01-27 16:19:39,849 WARN clear all config-info-tenant failed.
+
+2021-01-27 16:19:39,889 INFO start clear all config-info-beta.
+
+2021-01-27 16:19:39,889 WARN clear all config-info-beta failed.
+
+2021-01-27 16:19:39,889 WARN clear all config-info-beta-tenant failed.
+
+2021-01-27 16:19:39,897 INFO start clear all config-info-tag.
+
+2021-01-27 16:19:39,898 WARN clear all config-info-tag failed.
+
+2021-01-27 16:19:39,898 WARN clear all config-info-tag-tenant failed.
+

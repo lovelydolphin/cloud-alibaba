@@ -1,0 +1,12 @@
+2021-01-27 16:22:17,609 INFO DEFAULT_GROUP@@cloudalibaba-sentinel-service {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.110.213:8401:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2021-01-27 16:22:17,611 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@cloudalibaba-sentinel-service, ips: 192.168.110.213:8401_true,
+
+2021-01-27 16:22:17,614 INFO DEFAULT_GROUP@@cloudalibaba-sentinel-service {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.110.213:8401:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2021-01-27 16:22:17,614 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@cloudalibaba-sentinel-service, ips: 192.168.110.213:8401_true,
+
+2021-01-27 16:22:17,615 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@cloudalibaba-sentinel-service, ips: 192.168.110.213:8401_true,
+
+2021-01-27 16:22:17,615 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@cloudalibaba-sentinel-service, ips: 192.168.110.213:8401_true,
+

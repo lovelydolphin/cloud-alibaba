@@ -1,0 +1,308 @@
+2021-01-28 09:15:59,674 WARN clearConfigHistory start
+
+2021-01-28 09:16:17,277 WARN HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=14h7m8s598ms918µs400ns).
+
+2021-01-28 09:16:18,413 INFO [capacityManagement] start correct usage
+
+2021-01-28 09:16:18,413 INFO [capacityManagement] end correct usage, cost: 0s
+
+2021-01-28 09:25:59,679 WARN clearConfigHistory start
+
+2021-01-28 09:26:18,416 INFO [capacityManagement] start correct usage
+
+2021-01-28 09:26:18,416 INFO [capacityManagement] end correct usage, cost: 0s
+
+2021-01-28 09:35:59,680 WARN clearConfigHistory start
+
+2021-01-28 09:36:18,417 INFO [capacityManagement] start correct usage
+
+2021-01-28 09:36:18,417 INFO [capacityManagement] end correct usage, cost: 0s
+
+2021-01-28 09:45:59,681 WARN clearConfigHistory start
+
+2021-01-28 09:46:18,421 INFO [capacityManagement] start correct usage
+
+2021-01-28 09:46:18,421 INFO [capacityManagement] end correct usage, cost: 0s
+
+2021-01-28 09:55:59,682 WARN clearConfigHistory start
+
+2021-01-28 09:56:18,422 INFO [capacityManagement] start correct usage
+
+2021-01-28 09:56:18,422 INFO [capacityManagement] end correct usage, cost: 0s
+
+2021-01-28 10:05:59,683 WARN clearConfigHistory start
+
+2021-01-28 10:06:18,422 INFO [capacityManagement] start correct usage
+
+2021-01-28 10:06:18,422 INFO [capacityManagement] end correct usage, cost: 0s
+
+2021-01-28 10:15:59,685 WARN clearConfigHistory start
+
+2021-01-28 10:16:18,423 INFO [capacityManagement] start correct usage
+
+2021-01-28 10:16:18,423 INFO [capacityManagement] end correct usage, cost: 0s
+
+2021-01-28 10:25:59,600 WARN clearConfigHistory start
+
+2021-01-28 10:26:18,332 INFO [capacityManagement] start correct usage
+
+2021-01-28 10:26:18,332 INFO [capacityManagement] end correct usage, cost: 0s
+
+2021-01-28 10:40:30,691 INFO Starting Nacos v1.4.1 on PC-20191221PJFM with PID 2148 (C:\Users\Administrator\Desktop\框架\springcloud-alibaba\工具\nacos\target\nacos-server.jar started by Administrator in C:\Users\Administrator\Desktop\框架\springcloud-alibaba\工具\nacos\bin)
+
+2021-01-28 10:40:30,691 INFO The following profiles are active: standalone
+
+2021-01-28 10:40:34,834 INFO Bean 'org.springframework.security.access.expression.method.DefaultMethodSecurityExpressionHandler@60b4beb4' of type [org.springframework.security.access.expression.method.DefaultMethodSecurityExpressionHandler] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+
+2021-01-28 10:40:34,838 INFO Bean 'methodSecurityMetadataSource' of type [org.springframework.security.access.method.DelegatingMethodSecurityMetadataSource] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+
+2021-01-28 10:40:35,218 INFO Tomcat initialized with port(s): 8848 (http)
+
+2021-01-28 10:40:35,243 INFO Starting service [Tomcat]
+
+2021-01-28 10:40:35,243 INFO Starting Servlet engine: [Apache Tomcat/9.0.38]
+
+2021-01-28 10:40:35,520 INFO At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+
+2021-01-28 10:40:35,553 INFO Initializing Spring embedded WebApplicationContext
+
+2021-01-28 10:40:35,554 INFO Root WebApplicationContext: initialization completed in 4784 ms
+
+2021-01-28 10:40:36,191 INFO HikariPool-1 - Starting...
+
+2021-01-28 10:40:36,193 WARN Registered driver with driverClassName=org.apache.derby.jdbc.EmbeddedDriver was not found, trying direct instantiation.
+
+2021-01-28 10:40:36,697 INFO HikariPool-1 - Driver does not support get/set network timeout for connections. (Feature not implemented: No details.)
+
+2021-01-28 10:40:36,703 INFO HikariPool-1 - Start completed.
+
+2021-01-28 10:40:37,457 INFO Nacos-related cluster resource initialization
+
+2021-01-28 10:40:37,466 INFO The cluster resource is initialized
+
+2021-01-28 10:40:37,845 INFO Reflections took 40 ms to scan 1 urls, producing 4 keys and 6 values 
+
+2021-01-28 10:40:37,870 INFO Reflections took 4 ms to scan 1 urls, producing 6 keys and 26 values 
+
+2021-01-28 10:40:37,881 INFO Reflections took 3 ms to scan 1 urls, producing 3 keys and 15 values 
+
+2021-01-28 10:40:37,890 INFO Reflections took 2 ms to scan 1 urls, producing 2 keys and 12 values 
+
+2021-01-28 10:40:38,667 INFO Initializing ExecutorService 'applicationTaskExecutor'
+
+2021-01-28 10:40:38,761 INFO Adding welcome page: class path resource [static/index.html]
+
+2021-01-28 10:40:39,201 INFO Creating filter chain: Ant [pattern='/**'], []
+
+2021-01-28 10:40:39,236 INFO Creating filter chain: any request, [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@10027fc9, org.springframework.security.web.context.SecurityContextPersistenceFilter@7adbd080, org.springframework.security.web.header.HeaderWriterFilter@620aa4ea, org.springframework.security.web.csrf.CsrfFilter@5ca17ab0, org.springframework.security.web.authentication.logout.LogoutFilter@6d6bc158, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@560513ce, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@352c308, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@54afd745, org.springframework.security.web.session.SessionManagementFilter@3174cb09, org.springframework.security.web.access.ExceptionTranslationFilter@1051817b]
+
+2021-01-28 10:40:39,355 INFO Initializing ExecutorService 'taskScheduler'
+
+2021-01-28 10:40:39,371 INFO Exposing 2 endpoint(s) beneath base path '/actuator'
+
+2021-01-28 10:40:39,468 INFO Tomcat started on port(s): 8848 (http) with context path '/nacos'
+
+2021-01-28 10:40:39,471 INFO Started Nacos in 9.679 seconds (JVM running for 10.301)
+
+2021-01-28 10:40:39,471 INFO Nacos started successfully in stand alone mode. use embedded storage
+
+2021-01-28 10:40:41,783 INFO Initializing Spring DispatcherServlet 'dispatcherServlet'
+
+2021-01-28 10:40:41,784 INFO Initializing Servlet 'dispatcherServlet'
+
+2021-01-28 10:40:41,791 INFO Completed initialization in 7 ms
+
+2021-01-28 10:50:37,868 INFO [capacityManagement] start correct usage
+
+2021-01-28 10:50:37,889 INFO [capacityManagement] end correct usage, cost: 0s
+
+2021-01-28 10:50:37,997 WARN clearConfigHistory start
+
+2021-01-28 11:00:37,580 INFO [capacityManagement] start correct usage
+
+2021-01-28 11:00:37,580 INFO [capacityManagement] end correct usage, cost: 0s
+
+2021-01-28 11:00:37,708 WARN clearConfigHistory start
+
+2021-01-28 11:10:37,337 INFO [capacityManagement] start correct usage
+
+2021-01-28 11:10:37,337 INFO [capacityManagement] end correct usage, cost: 0s
+
+2021-01-28 11:10:37,469 WARN clearConfigHistory start
+
+2021-01-28 11:20:37,121 INFO [capacityManagement] start correct usage
+
+2021-01-28 11:20:37,121 INFO [capacityManagement] end correct usage, cost: 0s
+
+2021-01-28 11:20:37,250 WARN clearConfigHistory start
+
+2021-01-28 11:30:36,963 INFO [capacityManagement] start correct usage
+
+2021-01-28 11:30:36,964 INFO [capacityManagement] end correct usage, cost: 0s
+
+2021-01-28 11:30:37,092 WARN clearConfigHistory start
+
+2021-01-28 11:40:36,807 INFO [capacityManagement] start correct usage
+
+2021-01-28 11:40:36,808 INFO [capacityManagement] end correct usage, cost: 0s
+
+2021-01-28 11:40:36,934 WARN clearConfigHistory start
+
+2021-01-28 11:50:36,650 INFO [capacityManagement] start correct usage
+
+2021-01-28 11:50:36,651 INFO [capacityManagement] end correct usage, cost: 0s
+
+2021-01-28 11:50:36,777 WARN clearConfigHistory start
+
+2021-01-28 12:00:36,552 INFO [capacityManagement] start correct usage
+
+2021-01-28 12:00:36,552 INFO [capacityManagement] end correct usage, cost: 0s
+
+2021-01-28 12:00:36,677 WARN clearConfigHistory start
+
+2021-01-28 12:10:36,484 INFO [capacityManagement] start correct usage
+
+2021-01-28 12:10:36,484 INFO [capacityManagement] end correct usage, cost: 0s
+
+2021-01-28 12:10:36,610 WARN clearConfigHistory start
+
+2021-01-28 12:20:36,416 INFO [capacityManagement] start correct usage
+
+2021-01-28 12:20:36,417 INFO [capacityManagement] end correct usage, cost: 0s
+
+2021-01-28 12:20:36,541 WARN clearConfigHistory start
+
+2021-01-28 12:30:36,359 INFO [capacityManagement] start correct usage
+
+2021-01-28 12:30:36,360 INFO [capacityManagement] end correct usage, cost: 0s
+
+2021-01-28 12:30:36,483 WARN clearConfigHistory start
+
+2021-01-28 12:40:36,331 INFO [capacityManagement] start correct usage
+
+2021-01-28 12:40:36,331 INFO [capacityManagement] end correct usage, cost: 0s
+
+2021-01-28 12:40:36,454 WARN clearConfigHistory start
+
+2021-01-28 12:50:36,303 INFO [capacityManagement] start correct usage
+
+2021-01-28 12:50:36,303 INFO [capacityManagement] end correct usage, cost: 0s
+
+2021-01-28 12:50:36,426 WARN clearConfigHistory start
+
+2021-01-28 13:00:36,275 INFO [capacityManagement] start correct usage
+
+2021-01-28 13:00:36,276 INFO [capacityManagement] end correct usage, cost: 0s
+
+2021-01-28 13:00:36,399 WARN clearConfigHistory start
+
+2021-01-28 13:10:36,262 INFO [capacityManagement] start correct usage
+
+2021-01-28 13:10:36,262 INFO [capacityManagement] end correct usage, cost: 0s
+
+2021-01-28 13:10:36,385 WARN clearConfigHistory start
+
+2021-01-28 13:20:36,250 INFO [capacityManagement] start correct usage
+
+2021-01-28 13:20:36,250 INFO [capacityManagement] end correct usage, cost: 0s
+
+2021-01-28 13:20:36,376 WARN clearConfigHistory start
+
+2021-01-28 13:30:36,239 INFO [capacityManagement] start correct usage
+
+2021-01-28 13:30:36,239 INFO [capacityManagement] end correct usage, cost: 0s
+
+2021-01-28 13:30:36,364 WARN clearConfigHistory start
+
+2021-01-28 13:41:13,703 WARN clearConfigHistory start
+
+2021-01-28 13:41:21,622 WARN HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=7m46s170ms73µs900ns).
+
+2021-01-28 13:43:42,256 INFO Starting Nacos v1.4.1 on PC-20191221PJFM with PID 1756 (C:\Users\Administrator\Desktop\框架\springcloud-alibaba\工具\nacos\target\nacos-server.jar started by Administrator in C:\Users\Administrator\Desktop\框架\springcloud-alibaba\工具\nacos\bin)
+
+2021-01-28 13:43:42,256 INFO The following profiles are active: standalone
+
+2021-01-28 13:43:46,357 INFO Bean 'org.springframework.security.access.expression.method.DefaultMethodSecurityExpressionHandler@225129c' of type [org.springframework.security.access.expression.method.DefaultMethodSecurityExpressionHandler] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+
+2021-01-28 13:43:46,363 INFO Bean 'methodSecurityMetadataSource' of type [org.springframework.security.access.method.DelegatingMethodSecurityMetadataSource] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+
+2021-01-28 13:43:46,746 INFO Tomcat initialized with port(s): 8848 (http)
+
+2021-01-28 13:43:46,773 INFO Starting service [Tomcat]
+
+2021-01-28 13:43:46,773 INFO Starting Servlet engine: [Apache Tomcat/9.0.38]
+
+2021-01-28 13:43:47,036 INFO At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+
+2021-01-28 13:43:47,068 INFO Initializing Spring embedded WebApplicationContext
+
+2021-01-28 13:43:47,068 INFO Root WebApplicationContext: initialization completed in 4738 ms
+
+2021-01-28 13:43:47,687 INFO HikariPool-1 - Starting...
+
+2021-01-28 13:43:47,690 WARN Registered driver with driverClassName=org.apache.derby.jdbc.EmbeddedDriver was not found, trying direct instantiation.
+
+2021-01-28 13:43:48,057 INFO HikariPool-1 - Driver does not support get/set network timeout for connections. (Feature not implemented: No details.)
+
+2021-01-28 13:43:48,063 INFO HikariPool-1 - Start completed.
+
+2021-01-28 13:43:48,825 INFO Nacos-related cluster resource initialization
+
+2021-01-28 13:43:48,832 INFO The cluster resource is initialized
+
+2021-01-28 13:43:49,193 INFO Reflections took 36 ms to scan 1 urls, producing 4 keys and 6 values 
+
+2021-01-28 13:43:49,214 INFO Reflections took 4 ms to scan 1 urls, producing 6 keys and 26 values 
+
+2021-01-28 13:43:49,226 INFO Reflections took 3 ms to scan 1 urls, producing 3 keys and 15 values 
+
+2021-01-28 13:43:49,235 INFO Reflections took 1 ms to scan 1 urls, producing 2 keys and 12 values 
+
+2021-01-28 13:43:50,003 INFO Initializing ExecutorService 'applicationTaskExecutor'
+
+2021-01-28 13:43:50,100 INFO Adding welcome page: class path resource [static/index.html]
+
+2021-01-28 13:43:50,548 INFO Creating filter chain: Ant [pattern='/**'], []
+
+2021-01-28 13:43:50,582 INFO Creating filter chain: any request, [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@13006998, org.springframework.security.web.context.SecurityContextPersistenceFilter@1051817b, org.springframework.security.web.header.HeaderWriterFilter@74f7d1d2, org.springframework.security.web.csrf.CsrfFilter@7fe083b1, org.springframework.security.web.authentication.logout.LogoutFilter@41beb473, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@620aa4ea, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@4d411036, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@37fbe4a8, org.springframework.security.web.session.SessionManagementFilter@5ca17ab0, org.springframework.security.web.access.ExceptionTranslationFilter@486be205]
+
+2021-01-28 13:43:50,703 INFO Initializing ExecutorService 'taskScheduler'
+
+2021-01-28 13:43:50,719 INFO Exposing 2 endpoint(s) beneath base path '/actuator'
+
+2021-01-28 13:43:50,808 INFO Tomcat started on port(s): 8848 (http) with context path '/nacos'
+
+2021-01-28 13:43:50,814 INFO Started Nacos in 9.44 seconds (JVM running for 9.996)
+
+2021-01-28 13:43:50,814 INFO Nacos started successfully in stand alone mode. use embedded storage
+
+2021-01-28 13:43:51,509 INFO Initializing Spring DispatcherServlet 'dispatcherServlet'
+
+2021-01-28 13:43:51,509 INFO Initializing Servlet 'dispatcherServlet'
+
+2021-01-28 13:43:51,518 INFO Completed initialization in 8 ms
+
+2021-01-28 13:53:49,359 INFO [capacityManagement] start correct usage
+
+2021-01-28 13:53:49,372 INFO [capacityManagement] end correct usage, cost: 0s
+
+2021-01-28 13:53:49,494 WARN clearConfigHistory start
+
+2021-01-28 14:03:49,375 INFO [capacityManagement] start correct usage
+
+2021-01-28 14:03:49,377 INFO [capacityManagement] end correct usage, cost: 0s
+
+2021-01-28 14:03:49,503 WARN clearConfigHistory start
+
+2021-01-28 14:13:49,378 INFO [capacityManagement] start correct usage
+
+2021-01-28 14:13:49,379 INFO [capacityManagement] end correct usage, cost: 0s
+
+2021-01-28 14:13:49,508 WARN clearConfigHistory start
+
+2021-01-28 14:23:49,380 INFO [capacityManagement] start correct usage
+
+2021-01-28 14:23:49,380 INFO [capacityManagement] end correct usage, cost: 0s
+
+2021-01-28 14:23:49,510 WARN clearConfigHistory start
+
